@@ -25,7 +25,7 @@ A generator that prompts questions to the user then builds a professional README
 
 ## Installation
 
-nvm and npm are required
+npm is required
 
 ## Usage
 
